@@ -5,6 +5,10 @@ Wheeled Mobile Robot controlled with an Arduino UNO to navigate through pre-dete
 
 The goal of this project is to gain hands-on experience with microcontrollers, sensors, actuators and the programming required to interface with them. The robot is designed to complete four distinct tasks wherein it must: navigate through HMI, navigate autonomously and avoid objects. The solution created was a single actuator design that is able to turn and move forward/backward using one motor on a pivoting ratchet. The robot is able to determine  position using ultrasonic sensors and using these will navigate the tasks accordingly. There are many constraints on this project such as: time, funds and resources which increased the difficulty in creating a solution. In this experiment the design process including: problem definition, solution formulation, modelling, prototyping and implementation will be explored in order to gain in-depth hands-on experience with mechatronics topics.
 
+A video of the system performing in it's manual control option is shown below.
+
+https://drive.google.com/file/d/11_2gsuO4MDafjLckb3ffVChpPL_l2O8q/view?usp=drive_link
+
 ## List of Materials
 
 In order to construct the physical mechanism to be used for this project, mostly 3D printed parts were used for structural elements. The single actuator used is the N20 Motor which was already owned by a group member. The paper clips, copper tubing, and o-rings were scrap materials found at home. All of the remaining electrical parts have been taken from the Elegoo Starter Kit. However, a complete list of the costs were considered if each component needed to be purchased. A comprehensive list of all of the hardware that has been used in this project is given in the table below.
